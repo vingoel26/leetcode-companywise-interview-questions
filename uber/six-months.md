@@ -1,0 +1,75 @@
+# Uber LeetCode Questions — Last 6 Months
+
+> **71** questions total &nbsp;|&nbsp; 🟢 4 Easy &nbsp;|&nbsp; 🟡 44 Medium &nbsp;|&nbsp; 🔴 23 Hard
+
+- [ ] 🟡 **#79** [Word Search](https://leetcode.com/problems/word-search) — `Medium` · Acc: 47.4% · Freq: 75.0%
+- [ ] 🟡 **#200** [Number of Islands](https://leetcode.com/problems/number-of-islands) — `Medium` · Acc: 64.4% · Freq: 62.5%
+- [ ] 🔴 **#212** [Word Search II](https://leetcode.com/problems/word-search-ii) — `Hard` · Acc: 38.5% · Freq: 62.5%
+- [ ] 🟡 **#230** [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) — `Medium` · Acc: 76.8% · Freq: 75.0%
+- [ ] 🔴 **#305** [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii) — `Hard` · Acc: 40.6% · Freq: 100.0%
+- [ ] 🟡 **#399** [Evaluate Division](https://leetcode.com/problems/evaluate-division) — `Medium` · Acc: 64.2% · Freq: 62.5%
+- [ ] 🟡 **#1438** [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) — `Medium` · Acc: 57.7% · Freq: 100.0%
+- [ ] 🔴 **#564** [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) — `Hard` · Acc: 32.0% · Freq: 62.5%
+- [ ] 🟡 **#427** [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree) — `Medium` · Acc: 78.3% · Freq: 87.5%
+- [ ] 🔴 **#815** [Bus Routes](https://leetcode.com/problems/bus-routes) — `Hard` · Acc: 47.3% · Freq: 87.5%
+- [ ] 🟡 **#934** [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) — `Medium` · Acc: 59.5% · Freq: 50.0%
+- [ ] 🟡 **#362** [Design Hit Counter](https://leetcode.com/problems/design-hit-counter) — `Medium` · Acc: 69.7% · Freq: 75.0%
+- [ ] 🟡 **#380** [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) — `Medium` · Acc: 55.4% · Freq: 62.5%
+- [ ] 🟡 **#146** [LRU Cache](https://leetcode.com/problems/lru-cache) — `Medium` · Acc: 47.4% · Freq: 62.5%
+- [ ] 🟢 **#977** [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) — `Easy` · Acc: 73.8% · Freq: 87.5%
+- [ ] 🔴 **#269** [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) — `Hard` · Acc: 37.2% · Freq: 87.5%
+- [ ] 🟡 **#1429** [First Unique Number](https://leetcode.com/problems/first-unique-number) — `Medium` · Acc: 57.6% · Freq: 100.0%
+- [ ] 🟡 **#56** [Merge Intervals](https://leetcode.com/problems/merge-intervals) — `Medium` · Acc: 51.8% · Freq: 50.0%
+- [ ] 🟡 **#253** [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) — `Medium` · Acc: 52.7% · Freq: 50.0%
+- [ ] 🟡 **#139** [Word Break](https://leetcode.com/problems/word-break) — `Medium` · Acc: 49.5% · Freq: 50.0%
+- [ ] 🔴 **#2402** [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii) — `Hard` · Acc: 51.5% · Freq: 62.5%
+- [ ] 🔴 **#2858** [Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable) — `Hard` · Acc: 59.5% · Freq: 100.0%
+- [ ] 🔴 **#410** [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) — `Hard` · Acc: 60.4% · Freq: 62.5%
+- [ ] 🟡 **#227** [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) — `Medium` · Acc: 46.9% · Freq: 37.5%
+- [ ] 🟢 **#1475** [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) — `Easy` · Acc: 84.1% · Freq: 75.0%
+- [ ] 🟡 **#2571** [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0) — `Medium` · Acc: 62.4% · Freq: 62.5%
+- [ ] 🟡 **#994** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) — `Medium` · Acc: 58.7% · Freq: 50.0%
+- [ ] 🔴 **#2791** [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree) — `Hard` · Acc: 52.2% · Freq: 100.0%
+- [ ] 🟡 **#207** [Course Schedule](https://leetcode.com/problems/course-schedule) — `Medium` · Acc: 51.4% · Freq: 62.5%
+- [ ] 🟡 **#1101** [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends) — `Medium` · Acc: 66.1% · Freq: 87.5%
+- [ ] 🟡 **#1428** [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) — `Medium` · Acc: 55.2% · Freq: 75.0%
+- [ ] 🔴 **#2163** [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) — `Hard` · Acc: 69.6% · Freq: 37.5%
+- [ ] 🟡 **#752** [Open the Lock](https://leetcode.com/problems/open-the-lock) — `Medium` · Acc: 61.3% · Freq: 37.5%
+- [ ] 🟡 **#204** [Count Primes](https://leetcode.com/problems/count-primes) — `Medium` · Acc: 36.1% · Freq: 50.0%
+- [ ] 🟡 **#787** [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) — `Medium` · Acc: 41.8% · Freq: 50.0%
+- [ ] 🟡 **#347** [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) — `Medium` · Acc: 66.4% · Freq: 37.5%
+- [ ] 🔴 **#827** [Making A Large Island](https://leetcode.com/problems/making-a-large-island) — `Hard` · Acc: 56.6% · Freq: 62.5%
+- [ ] 🔴 **#2092** [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) — `Hard` · Acc: 48.4% · Freq: 37.5%
+- [ ] 🔴 **#2561** [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits) — `Hard` · Acc: 57.3% · Freq: 37.5%
+- [ ] 🔴 **#502** [IPO](https://leetcode.com/problems/ipo) — `Hard` · Acc: 53.5% · Freq: 50.0%
+- [ ] 🔴 **#2503** [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) — `Hard` · Acc: 59.3% · Freq: 62.5%
+- [ ] 🟡 **#981** [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) — `Medium` · Acc: 49.9% · Freq: 62.5%
+- [ ] 🟡 **#545** [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree) — `Medium` · Acc: 48.1% · Freq: 37.5%
+- [ ] 🟡 **#3629** [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) — `Medium` · Acc: 44.8% · Freq: 50.0%
+- [ ] 🔴 **#864** [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys) — `Hard` · Acc: 54.6% · Freq: 62.5%
+- [ ] 🔴 **#127** [Word Ladder](https://leetcode.com/problems/word-ladder) — `Hard` · Acc: 45.6% · Freq: 37.5%
+- [ ] 🟡 **#210** [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) — `Medium` · Acc: 55.5% · Freq: 50.0%
+- [ ] 🟡 **#162** [Find Peak Element](https://leetcode.com/problems/find-peak-element) — `Medium` · Acc: 47.0% · Freq: 75.0%
+- [ ] 🔴 **#679** [24 Game](https://leetcode.com/problems/24-game) — `Hard` · Acc: 59.5% · Freq: 37.5%
+- [ ] 🟡 **#5** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — `Medium` · Acc: 37.8% · Freq: 37.5%
+- [ ] 🟡 **#1197** [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves) — `Medium` · Acc: 42.0% · Freq: 37.5%
+- [ ] 🟡 **#855** [Exam Room](https://leetcode.com/problems/exam-room) — `Medium` · Acc: 43.5% · Freq: 62.5%
+- [ ] 🟢 **#2389** [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) — `Easy` · Acc: 73.6% · Freq: 37.5%
+- [ ] 🟡 **#2861** [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys) — `Medium` · Acc: 41.0% · Freq: 50.0%
+- [ ] 🔴 **#987** [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) — `Hard` · Acc: 53.8% · Freq: 37.5%
+- [ ] 🟡 **#1423** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) — `Medium` · Acc: 57.7% · Freq: 37.5%
+- [ ] 🟡 **#128** [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) — `Medium` · Acc: 47.1% · Freq: 37.5%
+- [ ] 🔴 **#719** [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) — `Hard` · Acc: 46.5% · Freq: 37.5%
+- [ ] 🟡 **#1244** [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard) — `Medium` · Acc: 68.1% · Freq: 37.5%
+- [ ] 🔴 **#1931** [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) — `Hard` · Acc: 77.1% · Freq: 37.5%
+- [ ] 🟡 **#384** [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) — `Medium` · Acc: 59.7% · Freq: 37.5%
+- [ ] 🟡 **#3419** [Minimize the Maximum Edge Weight of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph) — `Medium` · Acc: 44.6% · Freq: 37.5%
+- [ ] 🟢 **#121** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) — `Easy` · Acc: 56.8% · Freq: 37.5%
+- [ ] 🟡 **#2467** [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) — `Medium` · Acc: 67.3% · Freq: 37.5%
+- [ ] 🔴 **#2954** [Count the Number of Infection Sequences](https://leetcode.com/problems/count-the-number-of-infection-sequences) — `Hard` · Acc: 37.8% · Freq: 50.0%
+- [ ] 🟡 **#1966** [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array) — `Medium` · Acc: 63.8% · Freq: 37.5%
+- [ ] 🟡 **#2477** [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital) — `Medium` · Acc: 65.3% · Freq: 37.5%
+- [ ] 🔴 **#295** [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) — `Hard` · Acc: 54.5% · Freq: 37.5%
+- [ ] 🟡 **#802** [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) — `Medium` · Acc: 70.7% · Freq: 37.5%
+- [ ] 🟡 **#692** [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) — `Medium` · Acc: 60.2% · Freq: 37.5%
+- [ ] 🟡 **#3356** [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) — `Medium` · Acc: 43.6% · Freq: 37.5%
